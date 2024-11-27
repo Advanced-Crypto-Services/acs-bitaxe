@@ -3,12 +3,11 @@
 
 # Current Models
 ## Bitaxe Ultra 204 Modified for 800x480 add-on
-- **This model is based on the Bitaxe Ultra 204 model, but modified for the 800x480 resolution of the add-on. Used with the following projects:** 
-
-
-
+- **This model is based on the Bitaxe Ultra 204 model, but modified for the 800x480 resolution of the add-on. Used with the following projects:**
 - https://github.com/Advanced-Crypto-Services/acs-esp-miner
 - https://github.com/Advanced-Crypto-Services/acs-bitaxe-lcd-800x480
+
+![image](https://github.com/user-attachments/assets/efe543b3-1d29-4b8d-b131-bd687566cd65)
 
 ### Modifications: 
 - Added addtional i2C pins for the 800x480 LCD
