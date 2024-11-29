@@ -1,6 +1,8 @@
 # **Based on the Bitaxe project**
 ## https://github.com/skot/bitaxe
 
+# FIRST BATCH OF PCBS ORDERED 11/27/24
+
 # Current Models
 ## Bitaxe Ultra 204 Modified for 800x480 add-on
 - **This model is based on the Bitaxe Ultra 204 model, but modified for the 800x480 resolution of the add-on. Used with the following projects:**
